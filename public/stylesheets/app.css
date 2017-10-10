@@ -1,0 +1,21 @@
+.icon
+{
+    font-size: 3em;
+}
+body{
+    background-image: url("https://www.planwallpaper.com/static/images/violet-vector-leaves-circles-backgrounds-for-powerpoint_PdfkI4q.jpg");
+}
+
+.text.container.segment{
+    margin-top: 7em ;
+    border: 2px solid white;
+}
+#delete{
+    display:inline;
+}
+.huge.header{
+    text-align:center;
+    font-family:georgia;
+    color: purple;
+    font-size: 500em;
+}
