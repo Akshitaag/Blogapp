@@ -1,6 +1,6 @@
 # BLOGAPP
 
-This is a simple blogapp made in node.js .It has the CRUD functionality .You can add , edit and delete the blogs.
+This is a simple blogapp made in node.js.It has the CRUD functionality. You can add, edit and delete the blogs.
 
 ## PREREQUISITES
 
